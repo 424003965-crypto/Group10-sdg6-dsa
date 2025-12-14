@@ -1,1 +1,0 @@
-# Group10-sdg6-dsa
