@@ -1,0 +1,9 @@
+#include <string>
+using namespace std;
+
+struct WaterTest {
+    int id;
+    double pH;
+    int colorCode;
+    string status;
+};
